@@ -36,11 +36,14 @@
 - 📱 Pixel Duel (https://github.com/gmedinariq/PixelDuel-Final)
   Minijuego 2D desarrollado como proyecto de aprendizaje y práctica de programación.
   
-- 🌐 Lucky Wheel ()
-  Breve descripción del proyecto.
+- 🌐 Lucky Wheel (https://github.com/ocetelop-art/LuckyWheel)
+  Juego grupal basado en mecánicas aleatorias mediante una ruleta interactiva.
+  
+- 🏨 Hotel Booking App - Frontend (  
+  Aplicación web de reservas de hotel desarrollada en equipo con sistema de reservas y gestión de usuarios.
 
-- 🤖 [NombreProyecto](LINK)
-  Breve descripción del proyecto.
+  - ⚙️ Hotel Booking App - Backend 
+  Backend y API REST para la gestión de reservas, usuarios y autenticación.
 <!--
 **gmedinariq/gmedinariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
