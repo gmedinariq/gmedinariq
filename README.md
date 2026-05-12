@@ -1,5 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hola 👋 Soy Gerard Medina Riquelme</h1>
 
+<p align="center">
+  💻 Desarrollador Junior <br>
+  🚀 Apasionado por la tecnología y el desarrollo de software
+</p>
+
+---
+
+## 👨‍💻 Sobre mí
+
+- 🎓 Graduado en DAM
+- 📚 Aprendiendo constantemente nuevas tecnologías
+- 💡 Interesado en desarrollo de software, IA y aplicaciones
+- 🚀 Construyendo proyectos para mejorar como desarrollador
+
+---
+
+## 🛠 Tecnologías
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gmedinariq&show_icons=true&theme=tokyonight" height="180"/>
+</p>
 <!--
 **gmedinariq/gmedinariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
