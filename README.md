@@ -31,11 +31,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Proyectos Destacados
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gmedinariq&show_icons=true&theme=tokyonight" height="180"/>
-</p>
+- 📱 Pixel Duel (LINK)
+  Breve descripción del proyecto.
+
+- 🌐 [NombreProyecto](LINK)
+  Breve descripción del proyecto.
+
+- 🤖 [NombreProyecto](LINK)
+  Breve descripción del proyecto.
 <!--
 **gmedinariq/gmedinariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
