@@ -39,10 +39,10 @@
 - 🌐 Lucky Wheel (https://github.com/ocetelop-art/LuckyWheel)
   Juego grupal basado en mecánicas aleatorias mediante una ruleta interactiva.
   
-- 🏨 Hotel Booking App - Frontend (  
+- 🏨 Hotel Booking App - Frontend (https://github.com/tsimona-uoc/persist-net-frontend)
   Aplicación web de reservas de hotel desarrollada en equipo con sistema de reservas y gestión de usuarios.
 
-  - ⚙️ Hotel Booking App - Backend 
+  - ⚙️ Hotel Booking App - Backend (
   Backend y API REST para la gestión de reservas, usuarios y autenticación.
 <!--
 **gmedinariq/gmedinariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
