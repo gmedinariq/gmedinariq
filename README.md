@@ -33,10 +33,10 @@
 
 ## 📌 Proyectos Destacados
 
-- 📱 Pixel Duel (LINK)
-  Breve descripción del proyecto.
-
-- 🌐 [NombreProyecto](LINK)
+- 📱 Pixel Duel (https://github.com/gmedinariq/PixelDuel-Final)
+  Minijuego 2D desarrollado como proyecto de aprendizaje y práctica de programación.
+  
+- 🌐 Lucky Wheel ()
   Breve descripción del proyecto.
 
 - 🤖 [NombreProyecto](LINK)
